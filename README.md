@@ -24,7 +24,7 @@
 
 1. **Download or Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/MarkDrop.git
+   git clone https://github.com/atreyakamat/MarkDrop.git
     ```
 
 2. **Open Google Chrome** and navigate to:
